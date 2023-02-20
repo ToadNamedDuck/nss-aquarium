@@ -20,3 +20,6 @@
 #bodyContainer{
     display: flex;
 }
+.fish__image{
+    width: 50%;
+}
