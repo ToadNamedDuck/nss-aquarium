@@ -1,0 +1,22 @@
+.mainPageHeader{
+    width: 100%;
+    border: solid black 3px;
+    margin-bottom: 1em;
+    padding: 1em;
+    font-size: 2em;
+}
+.pageBody{
+    background-color:rgb(37, 90, 94);
+    color: rgb(230, 230, 230);
+}
+.bodyLeftSideDiv{
+    border: green solid 3px;
+    width: 60%
+}
+.bodyRightSideDiv{
+    border: solid black 3px;
+    width: 40%;
+}
+#bodyContainer{
+    display: flex;
+}
